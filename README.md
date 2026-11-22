@@ -18,6 +18,7 @@ Available **immediately** for full-time software engineering roles and internshi
 ### 🚀 Featured projects
 | Project | What it does | Stack |
 |---|---|---|
+| [QuorumKV](https://github.com/GabrielNThayil/QuorumKV) | Fault-tolerant distributed key-value store built from scratch: Raft consensus (election, replication, PreVote, ReadIndex) + LSM-tree storage (WAL, SSTables, bloom filters, compaction), verified by a fault-injection simulator | Python (stdlib only), asyncio, Docker |
 | [AI-Powered ERP Copilot](https://github.com/GabrielNThayil/AI-Powered-ERP-Copilot) | ERP backend (employees, leave, expenses, approvals) with JWT + RBAC, audit logging, and a Gemini copilot that answers business questions over live data | Java 21, Spring Boot, Spring Security, JPA, PostgreSQL, Docker |
 | [RAG Query Retrieval System](https://github.com/GabrielNThayil/rag-query-retrieval) | Clause-level Q&A over insurance, legal, HR and compliance documents with hybrid BM25 + vector retrieval, reranking and observability | Python, FastAPI, LLMs, Vector Search, Docker |
 | [La Couronne Café](https://github.com/GabrielNThayil/LaCWeb) · [live](https://create-a-premium-modern-caf-website.vercel.app) | Full-stack café ordering app with auth, Razorpay payments, delivery quotes and an AI assistant | Next.js, TypeScript, NextAuth, Razorpay, Vercel AI SDK |
@@ -25,6 +26,7 @@ Available **immediately** for full-time software engineering roles and internshi
 
 ### 🛠️ Tech
 **Languages:** Java · Python · C++ · C · JavaScript · TypeScript · SQL
+**Systems:** Raft consensus · LSM trees · distributed systems  
 **Backend:** Spring Boot · Django · FastAPI · Flask · REST · OAuth 2.0 · JWT · RBAC · Microservices
 **Data & Cloud:** PostgreSQL · MySQL · MongoDB · GCP · AWS · Cloudflare · Docker · Linux · CI/CD
 **AI/ML:** LLM integration · RAG · embeddings · vector search · NLP
